@@ -109,7 +109,7 @@ main {
     border-bottom-right-radius: 10px;
 }
 
-article > h2 {
+main h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
 }
